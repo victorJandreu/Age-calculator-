@@ -79,7 +79,7 @@ input{
     margin-top: 0;
     
     height: 60px;
-    padding: 1rem;
+    padding-left: 0.5rem;
     border-radius: 5px;
     border: 2px solid var(--light-grey);
     font-weight: 700;
